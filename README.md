@@ -1,5 +1,3 @@
-![pw3](https://github.com/rehmahahmed/CodSoft/assets/95929046/5acc0abc-cb18-4dc0-938a-824cb9fcc51f)
-![pw4](https://github.com/rehmahahmed/CodSoft/assets/95929046/217789ff-78e3-4ea2-82a9-d738732c41a3)
 # CodSoft
 All CodSoft internship tasks
 
