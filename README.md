@@ -1,3 +1,5 @@
+![pw3](https://github.com/rehmahahmed/CodSoft/assets/95929046/5acc0abc-cb18-4dc0-938a-824cb9fcc51f)
+![pw4](https://github.com/rehmahahmed/CodSoft/assets/95929046/217789ff-78e3-4ea2-82a9-d738732c41a3)
 # CodSoft
 All CodSoft internship tasks
 
@@ -20,4 +22,17 @@ I have tried my best to give it the same look and feel as specified by codsoft w
 
 ![cal1](https://github.com/rehmahahmed/CodSoft/assets/95929046/59230fdd-6776-4257-a422-99389fb7cfa0)
 ![cal2](https://github.com/rehmahahmed/CodSoft/assets/95929046/cbecf3c2-6464-4b92-93d0-ca81231bfe65)
+
+3) Password Generator
+Created by using tkinter module
+As per the specifications given by codsoft, the program will take entries name and length of password.
+On clicking generate password a password with random characters of specified length is generated.
+On clicking accept the generated password will be copied to clipboard.
+On clicking reset all fields will reset to blank.
+I have tried my best to give it the same look and feel as specified by codsoft with colors and widget placing.
+
+![pw1](https://github.com/rehmahahmed/CodSoft/assets/95929046/1a1e4de8-ff69-4d26-80fc-c074e41ea476)
+![pw2](https://github.com/rehmahahmed/CodSoft/assets/95929046/42d1edb3-8096-4b0d-8a1f-392211a3d1d4)
+![pw3](https://github.com/rehmahahmed/CodSoft/assets/95929046/541641e2-4bba-4b1e-9dac-fa031c15b1f2)
+![pw4](https://github.com/rehmahahmed/CodSoft/assets/95929046/faff1189-5200-4bfc-9db4-fe018740bc71)
 
