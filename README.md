@@ -13,9 +13,9 @@ I have tried my best to give it the same look and feel as specified by codsoft w
 ![todo4](https://github.com/rehmahahmed/CodSoft/assets/95929046/d7c54420-0a6d-4bb2-a2a8-745ef575cfdf)
 
 2) Calculator
-Created by using tkinter module
+Created by using tkinter, sqrt, factorial module.
 As per the specifications given by codsoft, the program will provide operands and operators and perform evaluations in one entry box.
-Its a simple calculator with basic arithmetic operations, square root, factorial all with decimals too
+Its a simple calculator with basic arithmetic operations, square root, factorial all with decimals too.
 I have tried my best to give it the same look and feel as specified by codsoft with colors and widget placing.
 
 ![cal1](https://github.com/rehmahahmed/CodSoft/assets/95929046/59230fdd-6776-4257-a422-99389fb7cfa0)
