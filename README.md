@@ -22,7 +22,7 @@ I have tried my best to give it the same look and feel as specified by codsoft w
 ![cal2](https://github.com/rehmahahmed/CodSoft/assets/95929046/cbecf3c2-6464-4b92-93d0-ca81231bfe65)
 
 3) Password Generator
-Created by using tkinter module
+Created by using tkinter, random, string, pyperclip module.
 As per the specifications given by codsoft, the program will take entries name and length of password.
 On clicking generate password a password with random characters of specified length is generated.
 On clicking accept the generated password will be copied to clipboard.
