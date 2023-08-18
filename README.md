@@ -1,3 +1,5 @@
+![t4](https://github.com/rehmahahmed/CodSoft/assets/95929046/f4f3540d-4035-47fc-81bd-6bda365e5047)
+![t3](https://github.com/rehmahahmed/CodSoft/assets/95929046/8c7027f7-1d47-45c8-a83a-7129a9dc3a0e)
 # CodSoft
 All CodSoft internship tasks
 
@@ -44,3 +46,15 @@ If encountered with some query that does not match with any predefined prompts t
 The chatbot can also exit and end program if told to exit.
 
 ![chatbot](https://github.com/rehmahahmed/CodSoft/assets/95929046/c2e18e97-d242-432a-aca8-0ab6a0d94a5d)
+
+2) Tic Tac Toe Game
+Created using tkinter and implemeting the minimax algorithm.
+The game works via tkinter buttons that are originally set to display " ", but are updated when player clicks on them and computer plays its turn.
+The minimax algorithm checks all base conditions first, then calls itself recursively by alternating the is_maximizing parameter's value.
+The find_best_move function checks all conditions and returns the best move, this makes the computer unbeatable.
+On completion of the game a messagebox is displayed that informs 'you won' or 'computer won' or 'its a tie' then resets the board for another match.
+
+![t1](https://github.com/rehmahahmed/CodSoft/assets/95929046/d36882dd-208c-4a9e-b4f9-13905f755568)
+![t2](https://github.com/rehmahahmed/CodSoft/assets/95929046/adeca565-206c-46d6-a735-45e29de62a2a)
+![t3](https://github.com/rehmahahmed/CodSoft/assets/95929046/399c50d9-f7d4-41b7-8836-578fa8e50c64)
+![t4](https://github.com/rehmahahmed/CodSoft/assets/95929046/453c3a48-00b7-436f-87f7-110d059e7c98)
