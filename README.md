@@ -1,5 +1,3 @@
-![t4](https://github.com/rehmahahmed/CodSoft/assets/95929046/f4f3540d-4035-47fc-81bd-6bda365e5047)
-![t3](https://github.com/rehmahahmed/CodSoft/assets/95929046/8c7027f7-1d47-45c8-a83a-7129a9dc3a0e)
 # CodSoft
 All CodSoft internship tasks
 
