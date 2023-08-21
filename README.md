@@ -56,3 +56,12 @@ On completion of the game a messagebox is displayed that informs 'you won' or 'c
 ![t2](https://github.com/rehmahahmed/CodSoft/assets/95929046/adeca565-206c-46d6-a735-45e29de62a2a)
 ![t3](https://github.com/rehmahahmed/CodSoft/assets/95929046/399c50d9-f7d4-41b7-8836-578fa8e50c64)
 ![t4](https://github.com/rehmahahmed/CodSoft/assets/95929046/453c3a48-00b7-436f-87f7-110d059e7c98)
+
+3) Face Recognition
+Created using Haarcascades face and eyes dataset and cv2 module.
+The program opens webcam and recognize faces from the captured frames.
+The recognized faces that are the Regions Of Interest (ROI) are highlighted in a rectangle.
+On pressing enter the program ends.
+
+![f1](https://github.com/rehmahahmed/CodSoft/assets/95929046/ce2e83cb-e335-443e-984e-a83ff6d7b8b9)
+
