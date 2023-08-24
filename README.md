@@ -65,3 +65,15 @@ On pressing enter the program ends.
 
 ![f1](https://github.com/rehmahahmed/CodSoft/assets/95929046/ce2e83cb-e335-443e-984e-a83ff6d7b8b9)
 
+ML Internship:
+1) Customer Churn Prediction
+Import all modules.
+Load the dataset.
+Assigning X and y. X is dataset without the churn ie 'exited' column. Y is the churn ie 'exited' column
+Split the data into training and testing sets.
+List all columns in either categorical or numeric list.
+Preprocessing the data by applying standard scaling on numeric columns and ignoring unknown data from categorical columns.
+Apply Logistic Regression classifier on the preprocessed data via pipeline. Fit and Predict.
+Apply Random Forest classifier on the preprocessed data via pipeline. Fit and Predict.
+Apply Gradient Boosting classifier on the preprocessed data via pipeline. Fit and Predict.
+Print Accuracy of each.
