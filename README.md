@@ -77,3 +77,23 @@ Apply Logistic Regression classifier on the preprocessed data via pipeline. Fit 
 Apply Random Forest classifier on the preprocessed data via pipeline. Fit and Predict.
 Apply Gradient Boosting classifier on the preprocessed data via pipeline. Fit and Predict.
 Print Accuracy of each.
+Logistic Regression Accuracy: 0.811
+Random Forest Accuracy: 0.8435
+Gradient Boosting Accuracy: 0.863
+
+3) Movie Genre Classsification
+Import all modules.
+Load the dataset.
+Dropping irrelevant columns.
+Preprocessing data so textual data can be trained, since genre classification is based on plot summary of the movie and other featuers such as movie name, cast, etc.
+Apply Naive Bayes classifier on the preprocessed data via inversing the labelencodings done while preprocessing. Fit and Predict.
+Print Accuracy.
+Accuracy: 0.54
+
+5) Credit Card Fraud Detection
+Import all modules.
+Load the dataset.
+Dropping irrelevant columns.
+Apply Random Forest classifier on the preprocessed data. Fit and Predict.
+Print Accuracy.
+Accuracy: 1.0 
